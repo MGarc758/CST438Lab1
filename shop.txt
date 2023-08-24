@@ -1,8 +1,7 @@
 Oranges
 Bananas
-Corn
-Rabbit Food
-Cereal
+Broccoli
+Rabbit FoodCereal
 Bread
 Eggs
 Milk
